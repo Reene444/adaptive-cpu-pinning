@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.reene4444.cpupinning.spring.CpuPinningAutoConfiguration
+
